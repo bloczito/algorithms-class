@@ -1,3 +1,0 @@
-"D:\Programy\CLion 2019.3.5\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Mati_Browser.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\Mati_Browser.dir/objects.a @CMakeFiles\Mati_Browser.dir\objects1.rsp
-C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Mati_Browser.dir/objects.a -Wl,--no-whole-archive  -o Mati_Browser.exe -Wl,--out-implib,libMati_Browser.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Mati_Browser.dir\linklibs.rsp

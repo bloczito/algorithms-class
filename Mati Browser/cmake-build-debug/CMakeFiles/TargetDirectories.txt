@@ -1,3 +1,0 @@
-D:/Studia/4 semestr/Algorytmy II/Mati Browser/cmake-build-debug/CMakeFiles/Mati_Browser.dir
-D:/Studia/4 semestr/Algorytmy II/Mati Browser/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Studia/4 semestr/Algorytmy II/Mati Browser/cmake-build-debug/CMakeFiles/rebuild_cache.dir
