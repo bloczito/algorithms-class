@@ -1,0 +1,3 @@
+D:/Studia/4 semestr/Algorytmy II/Universal Set/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Studia/4 semestr/Algorytmy II/Universal Set/cmake-build-debug/CMakeFiles/Universal_Set.dir
+D:/Studia/4 semestr/Algorytmy II/Universal Set/cmake-build-debug/CMakeFiles/edit_cache.dir

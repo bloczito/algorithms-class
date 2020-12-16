@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Studia/4 semestr/Algorytmy II/Map_Iterator/main.cpp
+iostream
+-
+string
+-
+vector
+-
+src/Map.h
+D:/Studia/4 semestr/Algorytmy II/Map_Iterator/src/Map.h
+
+D:/Studia/4 semestr/Algorytmy II/Map_Iterator/src/Map.h
+cstdint
+-
+utility
+-
+iterator
+-
+bst.h
+D:/Studia/4 semestr/Algorytmy II/Map_Iterator/src/bst.h
+MapElement.h
+D:/Studia/4 semestr/Algorytmy II/Map_Iterator/src/MapElement.h
+
+D:/Studia/4 semestr/Algorytmy II/Map_Iterator/src/MapElement.h
+utility
+-
+iostream
+-
+
+D:/Studia/4 semestr/Algorytmy II/Map_Iterator/src/bst.h
+iostream
+-
+cassert
+-
+functional
+-
+stack
+-
+

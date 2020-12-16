@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Studia/4 semestr/Algorytmy II/Universal Set/UniversalSet.h
+utility
+-
+iterator
+-
+cstdint
+-
+array
+-
+bitset
+-
+
+D:/Studia/4 semestr/Algorytmy II/Universal Set/main.cpp
+iostream
+-
+string
+-
+UniversalSet.h
+D:/Studia/4 semestr/Algorytmy II/Universal Set/UniversalSet.h
+

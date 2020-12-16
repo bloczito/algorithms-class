@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="MatiMapIterator" targetName="MatiMapIterator" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d25f6731-cfe1-4448-bf0a-5633dbe68d47" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1aufh3Jg1PgRrGb7aGuHv1yVata" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Studia\4 semestr\Algorytmy II\MatiMapIterator" />
+      <recent name="D:\Studia\4 semestr\Algorytmy II\MatiMapIterator\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MatiMapIterator" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MatiMapIterator" TARGET_NAME="MatiMapIterator" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MatiMapIterator" RUN_TARGET_NAME="MatiMapIterator">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d25f6731-cfe1-4448-bf0a-5633dbe68d47" name="Default Changelist" comment="" />
+      <created>1587590514753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587590514753</updated>
+      <workItem from="1587590517865" duration="6000" />
+      <workItem from="1587590539570" duration="4560000" />
+      <workItem from="1587646379094" duration="628000" />
+      <workItem from="1587647023489" duration="2806000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1041" y="335" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587590596653">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1041" y="335" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587590596653" />
+    <state width="914" height="233" key="GridCell.Tab.0.bottom" timestamp="1587650915181">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="233" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587650915181" />
+    <state width="914" height="233" key="GridCell.Tab.0.center" timestamp="1587650915181">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="233" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587650915181" />
+    <state width="914" height="233" key="GridCell.Tab.0.left" timestamp="1587650915181">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="233" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587650915181" />
+    <state width="914" height="233" key="GridCell.Tab.0.right" timestamp="1587650915181">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="233" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587650915181" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1587590539894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587590539894" />
+  </component>
+</project>

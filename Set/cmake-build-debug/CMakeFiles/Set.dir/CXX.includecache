@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Studia/4 semestr/Algorytmy II/Set/Set.h
+bst.h
+D:/Studia/4 semestr/Algorytmy II/Set/bst.h
+functional
+-
+stack
+-
+
+D:/Studia/4 semestr/Algorytmy II/Set/bst.h
+iostream
+-
+cassert
+-
+functional
+-
+stack
+-
+
+D:/Studia/4 semestr/Algorytmy II/Set/main.cpp
+iostream
+-
+string
+-
+set.h
+D:/Studia/4 semestr/Algorytmy II/Set/Set.h
+vector
+-
+

@@ -1,0 +1,3 @@
+D:/Studia/4 semestr/Algorytmy II/MatiMap/cmake-build-debug/CMakeFiles/MatiMap.dir
+D:/Studia/4 semestr/Algorytmy II/MatiMap/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Studia/4 semestr/Algorytmy II/MatiMap/cmake-build-debug/CMakeFiles/rebuild_cache.dir

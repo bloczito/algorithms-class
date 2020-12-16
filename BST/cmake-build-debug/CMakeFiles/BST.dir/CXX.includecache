@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Studia/4 semestr/Algorytmy II/BST/bstTest.h
+iostream
+-
+cassert
+-
+functional
+-
+stack
+-
+
+D:/Studia/4 semestr/Algorytmy II/BST/main.cpp
+iostream
+-
+bstTest.h
+D:/Studia/4 semestr/Algorytmy II/BST/bstTest.h
+
